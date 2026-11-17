@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id="root:test [file:///Users/siddharth/Documents/ScalaInAction/Scala/]" external.linked.project.path="$MODULE_DIR$/../../.." external.root.project.path="$MODULE_DIR$/../../.." external.system.id="SBT" external.system.module.type="sbtSourceSet" type="JAVA_MODULE" version="4">
+  <component name="DisplayModuleName">
+    <option name="name" value="Scala.test" />
+  </component>
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_27">
+    <output-test url="file://$MODULE_DIR$/../../../target/out/jvm/scala-3.10.1/scala/test-classes" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../src/test">
+      <sourceFolder url="file://$MODULE_DIR$/../../../src/test/scala" isTestSource="true" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../target/out/jvm/scala-3.10.1/scala/resource_managed/test" />
+    <content url="file://$MODULE_DIR$/../../../target/out/jvm/scala-3.10.1/scala/src_managed/test" />
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="sbt: scala-sdk-3.10.1" level="project" />
+    <orderEntry type="module" module-name="Scala.main" />
+    <orderEntry type="library" name="sbt: org.scala-lang:scala3-library_3:3.10.1:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.scala-lang:scala-library:3.10.1:jar" level="project" />
+  </component>
+  <component name="TestModuleProperties" production-module="Scala.main" />
+</module>
